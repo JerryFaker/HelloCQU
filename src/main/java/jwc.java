@@ -69,8 +69,8 @@ public class jwc {
 
     //以下信息用于登录教务网抓取信息
      static String semester = "20200";//0代表第一学期，1代表第二学期
-     static String stuID = "20176342";
-     static String pwd = "991119";
+     static String stuID = "";
+     static String pwd = "";
     //以下信息就不要随便改了吧
     final String loginURL = "http://202.202.1.41/_data/index_login.aspx";
     final String kcbURL = "http://202.202.1.41/znpk/Pri_StuSel_rpt.aspx";
